@@ -147,7 +147,7 @@ if game == 1:
                 score = sum(freeze)
                 break
     print("frozen dice: ",frozenice)
-    print("A run-up with a total of ",run_up,"and ",run_dice,"dice, followed by a jump resulting ",score,"points.")
+    print("A run-up with a total of ",run_up,"and ",run_dice,"dice, followed by a jump resulting in ",score,"points.")
 
 elif game == 2:
     print("You have chosen 110 Metre Hurtles!")
